@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,8 +107,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
      inkscape:zoom="0.52790675"
-     inkscape:cx="434.84548"
-     inkscape:cy="587.67278"
+     inkscape:cx="520.4082"
+     inkscape:cy="772.53279"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -116,8 +116,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:measure-start="661.102,-3.6525e-05"
-     inkscape:measure-end="661.102,67.8134"
+     inkscape:measure-start="769.549,89.1968"
+     inkscape:measure-end="769.549,-3.6525e-05"
      inkscape:snap-nodes="true">
     <sodipodi:guide
        position="87.157034,1455.1181"
@@ -201,7 +201,7 @@
            y="78.450302"
            style="fill:#273a72;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara947"
-         style="font-size:58.66666794px;line-height:1.10000002em;fill:#273a72;fill-opacity:1">Diskussion mit Bremer Parteien-vertretern zu Netzpolitik, Open Culture und Digitaler Bildung</flowPara></flowRoot>    <g
+         style="font-size:58.66666794px;line-height:1.10000002em;fill:#273a72;fill-opacity:1">Diskussion mit Bremer Partei-vertretern zu Netzpolitik, Open Culture und Digitaler Bildung</flowPara></flowRoot>    <g
        id="g4190"
        transform="translate(19.257064,-5.3578005)">
       <g
